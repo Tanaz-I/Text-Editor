@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683273042 source:c:\users\admin\onedrive\desktop\oops\dsa package\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<Windows.h>
+	<unistd.h>
+
